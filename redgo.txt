@@ -4,4 +4,3 @@ git1
 GIT2
 GIT has a mutable index called stage
 GIT4
-
